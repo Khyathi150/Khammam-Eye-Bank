@@ -5,7 +5,7 @@ export const stats = [
   { value: 2001, suffix: '', label: 'Established' },
   { value: 4, suffix: '', label: 'Donor transport vans' },
   { value: 24, suffix: '×7', label: 'Emergency response' },
-  { value: 2, suffix: '', label: 'People helped per donor' }
+  { value: 2, suffix: '', label: 'People helping per donor' }
 ];
 
 export const donationProcessSteps = [
