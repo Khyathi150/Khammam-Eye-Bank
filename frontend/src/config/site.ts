@@ -19,7 +19,7 @@ export const siteConfig = {
   },
   officeHours: '24×7 eye donation emergency response availability',
   registrationFormUrl:
-    import.meta.env.VITE_EYE_DONATION_FORM_URL ?? 'https://forms.gle/REPLACE_WITH_GOOGLE_FORM_ID',
+    import.meta.env.VITE_EYE_DONATION_FORM_URL ?? 'https://docs.google.com/forms/d/e/1FAIpQLSft58DWp_iMra7fTjvjQVwHQkAmiDRN1SUGXsJmIJdYo-xJmg/viewform?usp=dialog',
   apiBaseUrl: import.meta.env.VITE_API_BASE_URL ?? 'http://localhost:8000/api',
   social: {
     facebook: '#',
