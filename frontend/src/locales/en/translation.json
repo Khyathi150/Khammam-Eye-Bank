@@ -1,0 +1,39 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "servicesAll": "All Services",
+    "resources": "Resources",
+    "publicHealth": "Public Health",
+    "education": "Education",
+    "partners": "Partners",
+    "contact": "Contact",
+    "register": "Register for Eye Donation"
+  },
+  "footer": {
+    "quickLinks": "Quick Links",
+    "policies": "Policies",
+    "privacyPolicy": "Privacy Policy",
+    "termsOfUse": "Terms of Use",
+    "emergency": "24×7 Emergency Response",
+    "connect": "Connect With Us",
+    "rights": "All rights reserved."
+  },
+  "common": {
+    "readMore": "Read more",
+    "learnMore": "Learn more",
+    "viewAll": "View all",
+    "call": "Call now",
+    "email": "Email us",
+    "submit": "Submit",
+    "loading": "Loading…",
+    "comingSoon": "Content coming soon.",
+    "language": "Language"
+  },
+  "hero": {
+    "eyebrow": "Since 2001 · Khammam, Telangana",
+    "cta": "Register for Eye Donation",
+    "ctaSecondary": "Our Services"
+  }
+}

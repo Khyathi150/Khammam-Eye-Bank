@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /research
+Disallow: /careers
+Disallow: /gallery
+Sitemap: https://www.khammameyebank.org/sitemap.xml
