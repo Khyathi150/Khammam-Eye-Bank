@@ -27,7 +27,7 @@ export default function CallToAction({
           className="flex flex-col items-start justify-between gap-8 rounded-card bg-primary px-8 py-12 text-white md:flex-row md:items-center md:px-14"
         >
           <div className="max-w-xl">
-            <h2 className="text-2xl font-bold md:text-3xl">{title}</h2>
+            <h2 className="text-2xl font-bold md:text-3xl text-white">{title}</h2>
             <p className="mt-3 text-sm leading-relaxed text-white/80">{description}</p>
           </div>
           <LinkButton to={primaryTo} external={external} variant="primary" className="shrink-0">
