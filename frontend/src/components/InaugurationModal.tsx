@@ -702,7 +702,7 @@ export default function InaugurationModal({
               transition={{ delay: 0.55, duration: 0.45 }}
               className="font-heading text-2xl sm:text-3xl font-extrabold text-primary tracking-tight leading-snug px-1"
             >
-              The Khammam Eye Bank Website is Launched!
+              The Khammam Eye Bank Website is Officially Launched!
             </motion.h2>
 
             {/* Refined Divider Flourish */}
