@@ -15,6 +15,7 @@ import Careers from '@/pages/Careers';
 import Gallery from '@/pages/Gallery';
 import NotFound from '@/pages/NotFound';
 import ScrollToTop from '@/components/ScrollToTop';
+import InaugurationModal from '@/components/InaugurationModal';
 
 export default function App() {
   const location = useLocation();
@@ -22,6 +23,7 @@ export default function App() {
   return (
     <Layout>
       <ScrollToTop />
+      <InaugurationModal />
       <AnimatePresence mode="wait">
         <Routes location={location} key={location.pathname}>
           <Route path="/" element={<PageTransition><Home /></PageTransition>} />
